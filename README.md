@@ -23,23 +23,23 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ---------------
 ## 💭 Reflection and Self Assessment
 
-**I learned:** (repeat as needed)
+**I learned:** that I have I can commit often but don't necessarily have to push changes everytime. Only at the very end of my work when I'm done.
 - .
 
-**I struggled with:** (repeat as needed)
+**I struggled with:** realizing that I can only commit and not have to push everytime. 
 - .
 
-**I need the instructor to help me with:** (repeat as needed)
+**I need the instructor to help me with:** not much, just accessing the repositary in order to clone it. I was able to to the assignment myself though with the instructions provided.
 - .
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [20] out of 20.
 
 
 ## 📚 References and Citations
-**I used the following links, books, and other resources in my work:** (repeat as needed)
+**I used the following links, books, and other resources in my work:** N/A
 - .
   
-**I received help from the following people:** (repeat as needed)
+**I received help from the following people:** N/A
 - . 
 
 ---
